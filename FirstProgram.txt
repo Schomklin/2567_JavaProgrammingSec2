@@ -1,0 +1,13 @@
+class FirstProgram{
+ 
+ 
+
+*******************
+Console
+studentId:
+studentName:
+Topic:
+Date:
+DialogBox
+
+
